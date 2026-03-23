@@ -1,0 +1,14 @@
+{
+  "name": "owasp-juice-shop-login-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple Juice Shop style login form with client/server validation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
